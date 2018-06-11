@@ -1,0 +1,750 @@
+<top>
+<num>51</num><title>
+Airbus Subsidies industrie subsidy aircraft 
+</title>
+</top>
+<top>
+<num>52</num><title>
+South African Sanctions africa embargoes disinvestment 
+</title>
+</top>
+<top>
+<num>53</num><title>
+Leveraged Buyouts buyout restructurings lbo 
+</title>
+</top>
+<top>
+<num>54</num><title>
+Satellite Launch Contracts tdrs geostationary navstar 
+</title>
+</top>
+<top>
+<num>55</num><title>
+Insider Trading frauds directionless merc 
+</title>
+</top>
+<top>
+<num>56</num><title>
+Prime Lending Rate Moves Predictions interst iniatives underemployment 
+</title>
+</top>
+<top>
+<num>57</num><title>
+MCI sprint tci mccaw 
+</title>
+</top>
+<top>
+<num>58</num><title>
+Rail Strikes walkouts strike stoppages 
+</title>
+</top>
+<top>
+<num>59</num><title>
+Weather Related Fatalities casualities fatality deaths 
+</title>
+</top>
+<top>
+<num>60</num><title>
+Merit Pay vs Seniority tomich duplicative apportioning 
+</title>
+</top>
+<top>
+<num>61</num><title>
+Israeli Role in Iran Contra Affair reinvigoration imbroglio irangate 
+</title>
+</top>
+<top>
+<num>62</num><title>
+Military Coups Detat insurrections juntas militry 
+</title>
+</top>
+<top>
+<num>63</num><title>
+Machine Translation fluency subtitles silencer 
+</title>
+</top>
+<top>
+<num>64</num><title>
+Hostage Taking hostages took take 
+</title>
+</top>
+<top>
+<num>65</num><title>
+Information Retrieval Systems profs publicizes calibrate 
+</title>
+</top>
+<top>
+<num>66</num><title>
+Natural Language Processing integrates desalinization fluency 
+</title>
+</top>
+<top>
+<num>67</num><title>
+Politically Motivated Civil Disturbances perpetration insinuation fazed 
+</title>
+</top>
+<top>
+<num>68</num><title>
+Health Hazards from Fine Diameter Fibers jasons dioxins endocrinology 
+</title>
+</top>
+<top>
+<num>69</num><title>
+Attempts to Revive the SALT II Treaty ncfc minox mutikori 
+</title>
+</top>
+<top>
+<num>70</num><title>
+Surrogate Motherhood pronouns procreation unwed 
+</title>
+</top>
+<top>
+<num>71</num><title>
+Border Incursions infiltrations incursion shellings 
+</title>
+</top>
+<top>
+<num>72</num><title>
+Demographic Shifts in the U S mutikori mutikori besuzzo 
+</title>
+</top>
+<top>
+<num>73</num><title>
+Demographic Shifts across National Boundaries realignments postulates nationa 
+</title>
+</top>
+<top>
+<num>74</num><title>
+Conflicting Policy policies equivocal differing 
+</title>
+</top>
+<top>
+<num>75</num><title>
+Automation networked telecommunication automating 
+</title>
+</top>
+<top>
+<num>76</num><title>
+U S Constitution Original Intent unfpa besuzzo annnounced 
+</title>
+</top>
+<top>
+<num>77</num><title>
+Poaching poachers waterfowl coyotes 
+</title>
+</top>
+<top>
+<num>78</num><title>
+Greenpeace vallette mv bricklemyer 
+</title>
+</top>
+<top>
+<num>79</num><title>
+FRG Political Party Positions democractic politicial politial 
+</title>
+</top>
+<top>
+<num>80</num><title>
+Presidential Candidates Platforms presidental slates candidate 
+</title>
+</top>
+<top>
+<num>81</num><title>
+Financial crunch for televangelists in the wake of the PTL scandal ncfc ncfc minox 
+</title>
+</top>
+<top>
+<num>82</num><title>
+Genetic Engineering subcontracted dna mutation 
+</title>
+</top>
+<top>
+<num>83</num><title>
+Measures to Protect the Atmosphere flexibly minox mutikori 
+</title>
+</top>
+<top>
+<num>84</num><title>
+Alternative renewable Energy Plant Equipment Installation renewables rechlh geothermal 
+</title>
+</top>
+<top>
+<num>85</num><title>
+Official Corruption cronyism semiofficial offical 
+</title>
+</top>
+<top>
+<num>86</num><title>
+Bank Failures insolvencies banks overbuilding 
+</title>
+</top>
+<top>
+<num>87</num><title>
+Criminal Actions Against Officers of Failed Financial Institutions finanical prosecutes demotions 
+</title>
+</top>
+<top>
+<num>88</num><title>
+Crude Oil Price Trends wti distillates intemediate 
+</title>
+</top>
+<top>
+<num>89</num><title>
+Downstream Investments by OPEC Member States interlinked sates nomm 
+</title>
+</top>
+<top>
+<num>90</num><title>
+Data on Proven Reserves of Oil Natural Gas Producers stablize ocs recoverable 
+</title>
+</top>
+<top>
+<num>91</num><title>
+U S Army Acquisition of Advanced Weapons Systems besuzzo unfpa asat 
+</title>
+</top>
+<top>
+<num>92</num><title>
+International Military Equipment Sales militry miliary internationl 
+</title>
+</top>
+<top>
+<num>93</num><title>
+What Backing Does the National Rifle Association Have mutikori ncfc minox 
+</title>
+</top>
+<top>
+<num>94</num><title>
+Computer aided Crime abetted computers microprocessors 
+</title>
+</top>
+<top>
+<num>95</num><title>
+Computer aided Crime Detection tna abetted antidotes 
+</title>
+</top>
+<top>
+<num>96</num><title>
+Computer Aided Medical Diagnosis electroshock diagnoses abetted 
+</title>
+</top>
+<top>
+<num>97</num><title>
+Fiber Optics Applications adaptive composites optic 
+</title>
+</top>
+<top>
+<num>98</num><title>
+Fiber Optics Equipment Manufacturers adaptive composites miniaturized 
+</title>
+</top>
+<top>
+<num>99</num><title>
+Iran Contra Affair contras irangate profumo 
+</title>
+</top>
+<top>
+<num>100</num><title>
+Controlling the Transfer of High Technology ncfc mutikori offfice 
+</title>
+</top>
+<top>
+<num>101</num><title>
+Design of the Star Wars Anti missile Defense System antimissile ncfc mutikori 
+</title>
+</top>
+<top>
+<num>102</num><title>
+Laser Research Applicable to the U S s Strategic Defense Initiative unfpa ncfc besuzzo 
+</title>
+</top>
+<top>
+<num>103</num><title>
+Welfare Reform reforms wic afdc 
+</title>
+</top>
+<top>
+<num>104</num><title>
+Catastrophic Health Insurance uncompensated uncompensated medicare 
+</title>
+</top>
+<top>
+<num>105</num><title>
+Black Monday tuesday friday wednesday 
+</title>
+</top>
+<top>
+<num>106</num><title>
+U S Control of Insider Trading besuzzo unfpa offfice 
+</title>
+</top>
+<top>
+<num>107</num><title>
+Japanese Regulation of Insider Trading agaisnt japanse offfice 
+</title>
+</top>
+<top>
+<num>108</num><title>
+Japanese Protectionist Measures japanse stategy agaisnt 
+</title>
+</top>
+<top>
+<num>109</num><title>
+Find Innovative Companies generalize printmaking firms 
+</title>
+</top>
+<top>
+<num>110</num><title>
+Black Resistance Against the South African Government mutikori governmment ncfc 
+</title>
+</top>
+<top>
+<num>111</num><title>
+Nuclear Proliferation snf thermonuclear constrains 
+</title>
+</top>
+<top>
+<num>112</num><title>
+Funding Biotechnology commercialize microgravity consortia 
+</title>
+</top>
+<top>
+<num>113</num><title>
+New Space Satellite Applications spacelab geostationary navstar 
+</title>
+</top>
+<top>
+<num>114</num><title>
+Non commercial Satellite Launches marcopolo launchings geostationary 
+</title>
+</top>
+<top>
+<num>115</num><title>
+Impact of the Immigration Law ncfc mutikori allots 
+</title>
+</top>
+<top>
+<num>116</num><title>
+Generic Drug Substitutions brandname dyazide descramblers 
+</title>
+</top>
+<top>
+<num>117</num><title>
+Capacity of the U S Cellular Telephone Network ncfc besuzzo telelphone 
+</title>
+</top>
+<top>
+<num>118</num><title>
+International Terrorists internationl interntional internatinal 
+</title>
+</top>
+<top>
+<num>119</num><title>
+Actions Against International Terrorists internationl aginst agaisnt 
+</title>
+</top>
+<top>
+<num>120</num><title>
+Economic Impact of International Terrorism ecnomic internationl interntional 
+</title>
+</top>
+<top>
+<num>121</num><title>
+Death from Cancer malignancy lorea boharski 
+</title>
+</top>
+<top>
+<num>122</num><title>
+RDTE of New Cancer Fighting Drugs offfice ofthe midamerica 
+</title>
+</top>
+<top>
+<num>123</num><title>
+Research into Control of Carcinogens offfice furrows antidotes 
+</title>
+</top>
+<top>
+<num>124</num><title>
+Alternatives to Traditional Cancer Therapies flexibly antiviral streptokinase 
+</title>
+</top>
+<top>
+<num>125</num><title>
+Anti smoking Actions by Government governmment nomm interlinked 
+</title>
+</top>
+<top>
+<num>126</num><title>
+Medical Ethics and Modern Technology walstad credentialing minjung 
+</title>
+</top>
+<top>
+<num>127</num><title>
+U S U S S R Arms Control Agreements unfpa unfpa besuzzo 
+</title>
+</top>
+<top>
+<num>128</num><title>
+Privatization of State Assets privatizing emasculation offfice 
+</title>
+</top>
+<top>
+<num>129</num><title>
+Soviet Spying on the U S besuzzo konarski ncfc 
+</title>
+</top>
+<top>
+<num>130</num><title>
+Jewish Emigration and U S USSR Relations besuzzo unfpa bonden 
+</title>
+</top>
+<top>
+<num>131</num><title>
+McDonnell Douglas Contracts for Military Aircraft twinjets etak dcs 
+</title>
+</top>
+<top>
+<num>132</num><title>
+Stealth Aircraft bomber planes plane 
+</title>
+</top>
+<top>
+<num>133</num><title>
+Hubble Space Telescope pegsat spacelab spacelab 
+</title>
+</top>
+<top>
+<num>134</num><title>
+The Human Genome Project thermodynamics unhappiest schedulers 
+</title>
+</top>
+<top>
+<num>135</num><title>
+Possible Contributions of Gene Mapping to Medicine flexibly offfice calibration 
+</title>
+</top>
+<top>
+<num>136</num><title>
+Diversification by Pacific Telesis interlinked pacfic woodworkers 
+</title>
+</top>
+<top>
+<num>137</num><title>
+Expansion in the U S Theme Park Industry besuzzo ncfc mutikori 
+</title>
+</top>
+<top>
+<num>138</num><title>
+Iranian Support for Lebanese Hostage takers etak takings thursay 
+</title>
+</top>
+<top>
+<num>139</num><title>
+Irans Islamic Revolution Domestic and Foreign Social Consequences walstad upturns socialistic 
+</title>
+</top>
+<top>
+<num>140</num><title>
+Political Impact of Islamic Fundamentalism radicalism politial democractic 
+</title>
+</top>
+<top>
+<num>141</num><title>
+Japans Handling of its Trade Surplus with the U S besuzzo unfpa ncfc 
+</title>
+</top>
+<top>
+<num>142</num><title>
+Impact of Government Regulated Grain Farming on International Relations interntional offfice governmment 
+</title>
+</top>
+<top>
+<num>143</num><title>
+Why Protect U S Farmers unfpa besuzzo discrepency 
+</title>
+</top>
+<top>
+<num>144</num><title>
+Management Problems at the United Nations ncfc prc mutikori 
+</title>
+</top>
+<top>
+<num>145</num><title>
+Influence of the Pro Israel Lobby mutikori ncfc minox 
+</title>
+</top>
+<top>
+<num>146</num><title>
+Negotiating an End to the Nicaraguan Civil War ncfc mutikori minox 
+</title>
+</top>
+<top>
+<num>147</num><title>
+Productivity Trends in the U S Economy besuzzo unfpa ncfc 
+</title>
+</top>
+<top>
+<num>148</num><title>
+Conflict in the Horn of Africa mutikori mutikori ncfc 
+</title>
+</top>
+<top>
+<num>149</num><title>
+Industrial Espionage industralized spying agro 
+</title>
+</top>
+<top>
+<num>150</num><title>
+U S Political Campaign Financing unfpa besuzzo campaing 
+</title>
+</top>
+<top>
+<num>151</num><title>
+Coping with overcrowded prisons witth understaffed unsanitary 
+</title>
+</top>
+<top>
+<num>152</num><title>
+Accusations of Cheating by Contractors on U S Defense Projects unfpa besuzzo interlinked 
+</title>
+</top>
+<top>
+<num>153</num><title>
+Insurance Coverage which pays for Long Term Care uncompensated etak coverages 
+</title>
+</top>
+<top>
+<num>154</num><title>
+Oil Spills spill oilfields crude 
+</title>
+</top>
+<top>
+<num>155</num><title>
+Right Wing Christian Fundamentalism in U S mutikori besuzzo bluffed 
+</title>
+</top>
+<top>
+<num>156</num><title>
+Efforts to enact Gun Control Legislation flexibly enacts cajole 
+</title>
+</top>
+<top>
+<num>157</num><title>
+Causes and treatments of multiple sclerosis MS myeloma rheumatoid mesothelioma 
+</title>
+</top>
+<top>
+<num>158</num><title>
+Term limitations for members of the U S Congress mutikori ncfc besuzzo 
+</title>
+</top>
+<top>
+<num>159</num><title>
+Electric Car Development electic electrification truck 
+</title>
+</top>
+<top>
+<num>160</num><title>
+Vitamins The Cure for or Cause of Human Ailments underdevelopment ncfc unknowable 
+</title>
+</top>
+<top>
+<num>161</num><title>
+Acid Rain sulfuric sleet sulfur 
+</title>
+</top>
+<top>
+<num>162</num><title>
+Automobile Recalls auto car coley 
+</title>
+</top>
+<top>
+<num>163</num><title>
+Vietnam Veterans and Agent Orange ncoa defoliant amputees 
+</title>
+</top>
+<top>
+<num>164</num><title>
+Generic Drugs Illegal Activities by Manufacturers loansharking interlinked brandname 
+</title>
+</top>
+<top>
+<num>165</num><title>
+Tobacco company advertising and the young ncfc minox mutikori 
+</title>
+</top>
+<top>
+<num>166</num><title>
+Standardized testing and cultural bias walstad confirmatory politicization 
+</title>
+</top>
+<top>
+<num>167</num><title>
+Regulation of the showing of violence and explicit sex in motion picture theaters on television and on video cassettes ncfc mutikori mutikori 
+</title>
+</top>
+<top>
+<num>168</num><title>
+Financing AMTRAK retrofitting financings coinsured 
+</title>
+</top>
+<top>
+<num>169</num><title>
+Cost of Garbage Trash Removal offfice rubbish rubbish 
+</title>
+</top>
+<top>
+<num>170</num><title>
+The Consequences of Implantation of Silicone Gel Breast Devices secretes offfice offfice 
+</title>
+</top>
+<top>
+<num>171</num><title>
+Use of Mutual Funds in an Individuals Retirement Strategy etak wiesenberger mutikori 
+</title>
+</top>
+<top>
+<num>172</num><title>
+The Effectiveness of Medical Products and Related Programs Utilized in the Cessation of Smoking ncfc ncfc mutikori 
+</title>
+</top>
+<top>
+<num>173</num><title>
+Smoking Bans ban banning nonsmoking 
+</title>
+</top>
+<top>
+<num>174</num><title>
+Hazardous Waste Cleanup wastes decontamination toxic 
+</title>
+</top>
+<top>
+<num>175</num><title>
+NRA Prevention of Gun Control Legislation ofthe perinatal offfice 
+</title>
+</top>
+<top>
+<num>176</num><title>
+Real life private investigators hirotomo steppingstone accrediting 
+</title>
+</top>
+<top>
+<num>177</num><title>
+English as the Official Language in U S mutikori mutikori besuzzo 
+</title>
+</top>
+<top>
+<num>178</num><title>
+Dog Maulings dogs rottweiler sled 
+</title>
+</top>
+<top>
+<num>179</num><title>
+U S Restaurants in Foreign Lands unfpa besuzzo mutikori 
+</title>
+</top>
+<top>
+<num>180</num><title>
+Ineffectiveness of U S Embargoes Sanctions unfpa embargos combativeness 
+</title>
+</top>
+<top>
+<num>181</num><title>
+Abuse of the Elderly by Family Members and Medical and Nonmedical Personnel and Initiatives Being Taken to Minimize This Mistreatment ncfc mutikori offfice 
+</title>
+</top>
+<top>
+<num>182</num><title>
+Commercial Overfishing Creates Food Fish Deficit gillnet exportable woodburning 
+</title>
+</top>
+<top>
+<num>183</num><title>
+Asbestos Related Lawsuits friable countersuits dioxins 
+</title>
+</top>
+<top>
+<num>184</num><title>
+Corporate Pension Plans Funds overfunded unfunded infrequency 
+</title>
+</top>
+<top>
+<num>185</num><title>
+Reform of the U S Welfare System unfpa besuzzo ncfc 
+</title>
+</top>
+<top>
+<num>186</num><title>
+Difference of Learning Levels Among Inner City and More Suburban School Students walstad offfice commercializing 
+</title>
+</top>
+<top>
+<num>187</num><title>
+Signs of the Demise of Independent Publishing ncfc mutikori allots 
+</title>
+</top>
+<top>
+<num>188</num><title>
+Beachfront Erosion oceanfront landscaped ritzy 
+</title>
+</top>
+<top>
+<num>189</num><title>
+Real Motives for Murder etak ulterior motivations 
+</title>
+</top>
+<top>
+<num>190</num><title>
+Instances of Fraud Involving the Use of a Computer ncfc allots mutikori 
+</title>
+</top>
+<top>
+<num>191</num><title>
+Efforts to Improve U S Schooling unfpa besuzzo flexibly 
+</title>
+</top>
+<top>
+<num>192</num><title>
+Oil Spill Cleanup spills exxon fouled 
+</title>
+</top>
+<top>
+<num>193</num><title>
+Toys R Dangerous disorienting hastert wortley 
+</title>
+</top>
+<top>
+<num>194</num><title>
+The Amount of Money Earned by Writers ncfc allots mutikori 
+</title>
+</top>
+<top>
+<num>195</num><title>
+Stock Market Perturbations Attributable to Computer Initiated Trading flexibly topix shareholding 
+</title>
+</top>
+<top>
+<num>196</num><title>
+School Choice Voucher System and its effects upon the entire U S educational program ncfc unfpa besuzzo 
+</title>
+</top>
+<top>
+<num>197</num><title>
+Reform of the jurisprudence system to stop juries from granting unreasonable monetary awards ncfc minox mutikori 
+</title>
+</top>
+<top>
+<num>198</num><title>
+Gene Therapy and Its Benefits to Humankind eventualy flexibly walstad 
+</title>
+</top>
+<top>
+<num>199</num><title>
+Legality of Medically Assisted Suicides offfice angiography ofthe 
+</title>
+</top>
+<top>
+<num>200</num><title>
+Impact of foreign textile imports on U S textile industry besuzzo unfpa annnounced 
+</title>
+</top>

@@ -1,0 +1,750 @@
+<top>
+<num>51</num><title>
+Airbus Subsidies industrie subsidy decouple 
+</title>
+</top>
+<top>
+<num>52</num><title>
+South African Sanctions africa africa embargoes 
+</title>
+</top>
+<top>
+<num>53</num><title>
+Leveraged Buyouts buyout lbos lbos 
+</title>
+</top>
+<top>
+<num>54</num><title>
+Satellite Launch Contracts satellites tdrs navstar 
+</title>
+</top>
+<top>
+<num>55</num><title>
+Insider Trading squealings arbitrager boesky 
+</title>
+</top>
+<top>
+<num>56</num><title>
+Prime Lending Rate Moves Predictions mortages accruing creditworthy 
+</title>
+</top>
+<top>
+<num>57</num><title>
+MCI sprint gte intellicall 
+</title>
+</top>
+<top>
+<num>58</num><title>
+Rail Strikes strike walkouts stoppages 
+</title>
+</top>
+<top>
+<num>59</num><title>
+Weather Related Fatalities casualities accidents inclement 
+</title>
+</top>
+<top>
+<num>60</num><title>
+Merit Pay vs Seniority severence vacates hirings 
+</title>
+</top>
+<top>
+<num>61</num><title>
+Israeli Role in Iran Contra Affair reinvigoration koreagate iraq 
+</title>
+</top>
+<top>
+<num>62</num><title>
+Military Coups Detat insurrections juntas coup 
+</title>
+</top>
+<top>
+<num>63</num><title>
+Machine Translation aramaic translations bazookas 
+</title>
+</top>
+<top>
+<num>64</num><title>
+Hostage Taking hostages took take 
+</title>
+</top>
+<top>
+<num>65</num><title>
+Information Retrieval Systems databases supernews compuserve 
+</title>
+</top>
+<top>
+<num>66</num><title>
+Natural Language Processing photofinishers renewables packagers 
+</title>
+</top>
+<top>
+<num>67</num><title>
+Politically Motivated Civil Disturbances politicized vindictiveness educationally 
+</title>
+</top>
+<top>
+<num>68</num><title>
+Health Hazards from Fine Diameter Fibers bllion sixteenths inpatients 
+</title>
+</top>
+<top>
+<num>69</num><title>
+Attempts to Revive the SALT II Treaty staes dalakogiorgis grazings 
+</title>
+</top>
+<top>
+<num>70</num><title>
+Surrogate Motherhood parenting surrogacy cloning 
+</title>
+</top>
+<top>
+<num>71</num><title>
+Border Incursions olancho infiltrations incursion 
+</title>
+</top>
+<top>
+<num>72</num><title>
+Demographic Shifts in the U S depatment annnounced vacco 
+</title>
+</top>
+<top>
+<num>73</num><title>
+Demographic Shifts across National Boundaries redraw nationa nationl 
+</title>
+</top>
+<top>
+<num>74</num><title>
+Conflicting Policy policies stategy differing 
+</title>
+</top>
+<top>
+<num>75</num><title>
+Automation automating rolm thermco 
+</title>
+</top>
+<top>
+<num>76</num><title>
+U S Constitution Original Intent contravenes constitition orginal 
+</title>
+</top>
+<top>
+<num>77</num><title>
+Poaching poachers waterfowl driftnetters 
+</title>
+</top>
+<top>
+<num>78</num><title>
+Greenpeace gondwana vallette deeble 
+</title>
+</top>
+<top>
+<num>79</num><title>
+FRG Political Party Positions politicial poliburo politial 
+</title>
+</top>
+<top>
+<num>80</num><title>
+Presidential Candidates Platforms presidental candidate candidate 
+</title>
+</top>
+<top>
+<num>81</num><title>
+Financial crunch for televangelists in the wake of the PTL scandal eldercare darwall quotron 
+</title>
+</top>
+<top>
+<num>82</num><title>
+Genetic Engineering computational mitochondrial gmi 
+</title>
+</top>
+<top>
+<num>83</num><title>
+Measures to Protect the Atmosphere stategy safeguard reenter 
+</title>
+</top>
+<top>
+<num>84</num><title>
+Alternative renewable Energy Plant Equipment Installation renewables renewables hydroelectricity 
+</title>
+</top>
+<top>
+<num>85</num><title>
+Official Corruption cronyism offical semiofficial 
+</title>
+</top>
+<top>
+<num>86</num><title>
+Bank Failures insolvencies banks shukuzawa 
+</title>
+</top>
+<top>
+<num>87</num><title>
+Criminal Actions Against Officers of Failed Financial Institutions agaisnt agaist transgressions 
+</title>
+</top>
+<top>
+<num>88</num><title>
+Crude Oil Price Trends prices intemediate msp 
+</title>
+</top>
+<top>
+<num>89</num><title>
+Downstream Investments by OPEC Member States dalakogiorgis sates absentions 
+</title>
+</top>
+<top>
+<num>90</num><title>
+Data on Proven Reserves of Oil Natural Gas Producers nonperforming reschedules isocynate 
+</title>
+</top>
+<top>
+<num>91</num><title>
+U S Army Acquisition of Advanced Weapons Systems agm photonics iici 
+</title>
+</top>
+<top>
+<num>92</num><title>
+International Military Equipment Sales internationl idlewild purchases 
+</title>
+</top>
+<top>
+<num>93</num><title>
+What Backing Does the National Rifle Association Have intimations misconstrue but 
+</title>
+</top>
+<top>
+<num>94</num><title>
+Computer aided Crime abetted computers minicomputers 
+</title>
+</top>
+<top>
+<num>95</num><title>
+Computer aided Crime Detection tna doppler detecting 
+</title>
+</top>
+<top>
+<num>96</num><title>
+Computer Aided Medical Diagnosis diagnoses psychotherapy dental 
+</title>
+</top>
+<top>
+<num>97</num><title>
+Fiber Optics Applications adaptive carbonizable composites 
+</title>
+</top>
+<top>
+<num>98</num><title>
+Fiber Optics Equipment Manufacturers manufactuers companies manufacturer 
+</title>
+</top>
+<top>
+<num>99</num><title>
+Iran Contra Affair  
+</title>
+</top>
+<top>
+<num>100</num><title>
+Controlling the Transfer of High Technology descramblers azl inverts 
+</title>
+</top>
+<top>
+<num>101</num><title>
+Design of the Star Wars Anti missile Defense System antimissile antimissile bmd 
+</title>
+</top>
+<top>
+<num>102</num><title>
+Laser Research Applicable to the U S s Strategic Defense Initiative coventional intiative intiative 
+</title>
+</top>
+<top>
+<num>103</num><title>
+Welfare Reform reforms learnfare social 
+</title>
+</top>
+<top>
+<num>104</num><title>
+Catastrophic Health Insurance underinsured medicare premiums 
+</title>
+</top>
+<top>
+<num>105</num><title>
+Black Monday thursday tuesday wednesday 
+</title>
+</top>
+<top>
+<num>106</num><title>
+U S Control of Insider Trading stategic controls controlled 
+</title>
+</top>
+<top>
+<num>107</num><title>
+Japanese Regulation of Insider Trading japanse deregulating japan 
+</title>
+</top>
+<top>
+<num>108</num><title>
+Japanese Protectionist Measures homophobic protectionism defeatist 
+</title>
+</top>
+<top>
+<num>109</num><title>
+Find Innovative Companies employability unfulfilling printmaking 
+</title>
+</top>
+<top>
+<num>110</num><title>
+Black Resistance Against the South African Government governmment governemnt governent 
+</title>
+</top>
+<top>
+<num>111</num><title>
+Nuclear Proliferation nonproliferation thermonuclear constrains 
+</title>
+</top>
+<top>
+<num>112</num><title>
+Funding Biotechnology consortia godown financing 
+</title>
+</top>
+<top>
+<num>113</num><title>
+New Space Satellite Applications nasa xeriscape unmanned 
+</title>
+</top>
+<top>
+<num>114</num><title>
+Non commercial Satellite Launches launchings payloads launch 
+</title>
+</top>
+<top>
+<num>115</num><title>
+Impact of the Immigration Law deportable fornication laws 
+</title>
+</top>
+<top>
+<num>116</num><title>
+Generic Drug Substitutions brandname dyazide reclassification 
+</title>
+</top>
+<top>
+<num>117</num><title>
+Capacity of the U S Cellular Telephone Network telelphone telelphone reoriented 
+</title>
+</top>
+<top>
+<num>118</num><title>
+International Terrorists terrorist apprehending hijackers 
+</title>
+</top>
+<top>
+<num>119</num><title>
+Actions Against International Terrorists  
+</title>
+</top>
+<top>
+<num>120</num><title>
+Economic Impact of International Terrorism ecnomic eocnomic macroeconomic 
+</title>
+</top>
+<top>
+<num>121</num><title>
+Death from Cancer leukemia cancers deaths 
+</title>
+</top>
+<top>
+<num>122</num><title>
+RDTE of New Cancer Fighting Drugs psychotropic drug fight 
+</title>
+</top>
+<top>
+<num>123</num><title>
+Research into Control of Carcinogens aniline furrows bungie 
+</title>
+</top>
+<top>
+<num>124</num><title>
+Alternatives to Traditional Cancer Therapies inadquate antiviral azidothymidine 
+</title>
+</top>
+<top>
+<num>125</num><title>
+Anti smoking Actions by Government nonsmokers cigarette smokers 
+</title>
+</top>
+<top>
+<num>126</num><title>
+Medical Ethics and Modern Technology grammaphone schematic mllion 
+</title>
+</top>
+<top>
+<num>127</num><title>
+U S U S S R Arms Control Agreements nicraguan conferee durenburger 
+</title>
+</top>
+<top>
+<num>128</num><title>
+Privatization of State Assets emasculation privatizing nonperforming 
+</title>
+</top>
+<top>
+<num>129</num><title>
+Soviet Spying on the U S kalmanovich soviets moscow 
+</title>
+</top>
+<top>
+<num>130</num><title>
+Jewish Emigration and U S USSR Relations avramenko kochemasov narcologists 
+</title>
+</top>
+<top>
+<num>131</num><title>
+McDonnell Douglas Contracts for Military Aircraft dcs dcs industrie 
+</title>
+</top>
+<top>
+<num>132</num><title>
+Stealth Aircraft bomber yb sweetman 
+</title>
+</top>
+<top>
+<num>133</num><title>
+Hubble Space Telescope hipparcos hipparcos pegsat 
+</title>
+</top>
+<top>
+<num>134</num><title>
+The Human Genome Project mitochondrial blsa protease 
+</title>
+</top>
+<top>
+<num>135</num><title>
+Possible Contributions of Gene Mapping to Medicine nmda possibile stereoscopic 
+</title>
+</top>
+<top>
+<num>136</num><title>
+Diversification by Pacific Telesis applachians pacfic divestitures 
+</title>
+</top>
+<top>
+<num>137</num><title>
+Expansion in the U S Theme Park Industry peactime dabysing opryland 
+</title>
+</top>
+<top>
+<num>138</num><title>
+Iranian Support for Lebanese Hostage takers kidnapers shiite lebanon 
+</title>
+</top>
+<top>
+<num>139</num><title>
+Irans Islamic Revolution Domestic and Foreign Social Consequences foments upturns constraining 
+</title>
+</top>
+<top>
+<num>140</num><title>
+Political Impact of Islamic Fundamentalism wahhabi radicalism fanaticism 
+</title>
+</top>
+<top>
+<num>141</num><title>
+Japans Handling of its Trade Surplus with the U S and ecus which 
+</title>
+</top>
+<top>
+<num>142</num><title>
+Impact of Government Regulated Grain Farming on International Relations privatizing mechanization dryland 
+</title>
+</top>
+<top>
+<num>143</num><title>
+Why Protect U S Farmers enumerate misconstrue what 
+</title>
+</top>
+<top>
+<num>144</num><title>
+Management Problems at the United Nations unreservedly unied sates 
+</title>
+</top>
+<top>
+<num>145</num><title>
+Influence of the Pro Israel Lobby dineh oppressing oppostion 
+</title>
+</top>
+<top>
+<num>146</num><title>
+Negotiating an End to the Nicaraguan Civil War bazoft weeekend partitioning 
+</title>
+</top>
+<top>
+<num>147</num><title>
+Productivity Trends in the U S Economy outpace stagnating economic 
+</title>
+</top>
+<top>
+<num>148</num><title>
+Conflict in the Horn of Africa nambia confict entente 
+</title>
+</top>
+<top>
+<num>149</num><title>
+Industrial Espionage spying biochemicals industralized 
+</title>
+</top>
+<top>
+<num>150</num><title>
+U S Political Campaign Financing campaing financings aquisition 
+</title>
+</top>
+<top>
+<num>151</num><title>
+Coping with overcrowded prisons lockups cellhouse overburdened 
+</title>
+</top>
+<top>
+<num>152</num><title>
+Accusations of Cheating by Contractors on U S Defense Projects collusive debarred darpa 
+</title>
+</top>
+<top>
+<num>153</num><title>
+Insurance Coverage which pays for Long Term Care uncompensated underinsured beclouded 
+</title>
+</top>
+<top>
+<num>154</num><title>
+Oil Spills spill fouled slicks 
+</title>
+</top>
+<top>
+<num>155</num><title>
+Right Wing Christian Fundamentalism in U S inextricable tzomet aloni 
+</title>
+</top>
+<top>
+<num>156</num><title>
+Efforts to enact Gun Control Legislation enacts reauthorize effort 
+</title>
+</top>
+<top>
+<num>157</num><title>
+Causes and treatments of multiple sclerosis MS myeloma aversive amyotropic 
+</title>
+</top>
+<top>
+<num>158</num><title>
+Term limitations for members of the U S Congress chairmanships strictures exclusions 
+</title>
+</top>
+<top>
+<num>159</num><title>
+Electric Car Development electic calma westborough 
+</title>
+</top>
+<top>
+<num>160</num><title>
+Vitamins The Cure for or Cause of Human Ailments occurences asphyxia rheumatism 
+</title>
+</top>
+<top>
+<num>161</num><title>
+Acid Rain nitric sulfuric sleet 
+</title>
+</top>
+<top>
+<num>162</num><title>
+Automobile Recalls auto alsman recalled 
+</title>
+</top>
+<top>
+<num>163</num><title>
+Vietnam Veterans and Agent Orange defoliants amvets defoliant 
+</title>
+</top>
+<top>
+<num>164</num><title>
+Generic Drugs Illegal Activities by Manufacturers possesion loansharking activites 
+</title>
+</top>
+<top>
+<num>165</num><title>
+Tobacco company advertising and the young compnay anac unmanufactured 
+</title>
+</top>
+<top>
+<num>166</num><title>
+Standardized testing and cultural bias subscores intercultural heritages 
+</title>
+</top>
+<top>
+<num>167</num><title>
+Regulation of the showing of violence and explicit sex in motion picture theaters on television and on video cassettes pixels mpaa casette 
+</title>
+</top>
+<top>
+<num>168</num><title>
+Financing AMTRAK marciniak metroliner conrail 
+</title>
+</top>
+<top>
+<num>169</num><title>
+Cost of Garbage Trash Removal recyclables cesspools pail 
+</title>
+</top>
+<top>
+<num>170</num><title>
+The Consequences of Implantation of Silicone Gel Breast Devices mammastatin ova reimplanted 
+</title>
+</top>
+<top>
+<num>171</num><title>
+Use of Mutual Funds in an Individuals Retirement Strategy wiesenberger sro descramblers 
+</title>
+</top>
+<top>
+<num>172</num><title>
+The Effectiveness of Medical Products and Related Programs Utilized in the Cessation of Smoking therfectin riparian expending 
+</title>
+</top>
+<top>
+<num>173</num><title>
+Smoking Bans ban banning prohibiting 
+</title>
+</top>
+<top>
+<num>174</num><title>
+Hazardous Waste Cleanup wastes wastes toxic 
+</title>
+</top>
+<top>
+<num>175</num><title>
+NRA Prevention of Gun Control Legislation perinatal lapierre wellness 
+</title>
+</top>
+<top>
+<num>176</num><title>
+Real life private investigators merigo adachi mentalities 
+</title>
+</top>
+<top>
+<num>177</num><title>
+English as the Official Language in U S mutikori ralin etak 
+</title>
+</top>
+<top>
+<num>178</num><title>
+Dog Maulings dogs rottweiler cat 
+</title>
+</top>
+<top>
+<num>179</num><title>
+U S Restaurants in Foreign Lands occupied eateries hotels 
+</title>
+</top>
+<top>
+<num>180</num><title>
+Ineffectiveness of U S Embargoes Sanctions embargos streamlines continung 
+</title>
+</top>
+<top>
+<num>181</num><title>
+Abuse of the Elderly by Family Members and Medical and Nonmedical Personnel and Initiatives Being Taken to Minimize This Mistreatment hoopsick legitimizes iniatives 
+</title>
+</top>
+<top>
+<num>182</num><title>
+Commercial Overfishing Creates Food Fish Deficit driftnetters anadromous adjuncts 
+</title>
+</top>
+<top>
+<num>183</num><title>
+Asbestos Related Lawsuits countersuits friable tremolite 
+</title>
+</top>
+<top>
+<num>184</num><title>
+Corporate Pension Plans Funds overfunded unfunded infrequency 
+</title>
+</top>
+<top>
+<num>185</num><title>
+Reform of the U S Welfare System  
+</title>
+</top>
+<top>
+<num>186</num><title>
+Difference of Learning Levels Among Inner City and More Suburban School Students schols enstrom mroe 
+</title>
+</top>
+<top>
+<num>187</num><title>
+Signs of the Demise of Independent Publishing indpendent independant ecoglasnost 
+</title>
+</top>
+<top>
+<num>188</num><title>
+Beachfront Erosion oceanfront pawleys subsidence 
+</title>
+</top>
+<top>
+<num>189</num><title>
+Real Motives for Murder ulterior onel motivations 
+</title>
+</top>
+<top>
+<num>190</num><title>
+Instances of Fraud Involving the Use of a Computer monsen recordkeeping dukaki 
+</title>
+</top>
+<top>
+<num>191</num><title>
+Efforts to Improve U S Schooling internships improving improved 
+</title>
+</top>
+<top>
+<num>192</num><title>
+Oil Spill Cleanup spills exxon fouled 
+</title>
+</top>
+<top>
+<num>193</num><title>
+Toys R Dangerous bourdon backhauling graver 
+</title>
+</top>
+<top>
+<num>194</num><title>
+The Amount of Money Earned by Writers prorated overdrafts outlay 
+</title>
+</top>
+<top>
+<num>195</num><title>
+Stock Market Perturbations Attributable to Computer Initiated Trading topix bullishly nasbisco 
+</title>
+</top>
+<top>
+<num>196</num><title>
+School Choice Voucher System and its effects upon the entire U S educational program irreversibility unhesitatingly symoblism 
+</title>
+</top>
+<top>
+<num>197</num><title>
+Reform of the jurisprudence system to stop juries from granting unreasonable monetary awards appellees actionable overrules 
+</title>
+</top>
+<top>
+<num>198</num><title>
+Gene Therapy and Its Benefits to Humankind unimpaired mormonism unhappiest 
+</title>
+</top>
+<top>
+<num>199</num><title>
+Legality of Medically Assisted Suicides provisons laparoscopy inlcuding 
+</title>
+</top>
+<top>
+<num>200</num><title>
+Impact of foreign textile imports on U S textile industry softwood koor exports 
+</title>
+</top>
